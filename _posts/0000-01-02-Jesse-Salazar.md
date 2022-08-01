@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Here's something witty with an emoji 😜
 Use the left arrow to go back!
